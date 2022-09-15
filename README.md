@@ -1,6 +1,6 @@
 # OSCP-Notes 
 
-Kali Linux
+Kali Linux (Commands)
 ========================================================================================================
 
 -   Set the Target IP Address to the `$ip` system variable  
